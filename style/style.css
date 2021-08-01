@@ -1,0 +1,404 @@
+
+    * {
+        padding: 0px;
+        margin: 0px;
+        
+    }
+
+
+
+    body span .body p {
+        color: rgb(101, 101, 101);
+        line-height: 1.5;
+        -webkit-font-smoothing: antialiased;
+        font-size: 1rem;
+    }
+
+    nav.Navbar-nav {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: inherit;
+        padding: 32px;
+    }
+
+    .nav-left {
+        font-size: 30px;
+    }
+
+    a.nav-link {
+        text-decoration: none;
+        font-size: 20px;
+        padding-right: 0.5rem;
+        padding-left: 0.5rem;
+        text-transform: capitalize;
+    }
+
+    a.nav-link:hover{
+        color: #FF5200 !important;
+
+    }
+
+
+    #text-color {
+        color: cornflowerblue;
+        font-weight: 500;
+    }
+
+    nav.navbar.navbar-expand-lg.navbar-light {
+        background-color: white;
+    }
+
+    a#link-color {
+        color: cornflowerblue;
+    }
+
+ 
+
+    a#navbarDropdown {
+        color: cornflowerblue !important;
+    }
+
+    .nav-link {
+        color: cornflowerblue !important;
+    }
+
+    div#Tops {
+        margin-top: 15%;
+    }
+
+    .col-box {
+        margin-top: 25%;
+    }
+
+    p.box-p {
+        font-size: 22px;
+    }
+
+    h1.box-h1 {
+        text-transform: capitalize;
+        font-size: 40px;
+        font-weight: 500;
+        padding-bottom: 15px;
+    }
+
+    .Socal-icon a {
+        padding-right: 1rem;
+        font-size: 20px;
+        color: black;
+        transition: all 2s ease 0s;
+    }
+
+    .Socal-icon a :hover {
+        color: rgb(255, 82, 0);
+        transition: all 0s ease 0s;
+    }
+
+    .Socal-icon {
+        padding-bottom: 35px;
+    }
+
+    i.fas.fa-arrow-right {
+        margin-left: 10px;
+    }
+
+    button#btn {
+        padding: 10px 35px;
+        text-transform: capitalize;
+        color: white;
+        border: none;
+        background-color: rgb(0, 18, 32);
+        transition: all 600ms ease 0s;
+        border-radius: 30px !important;
+    }
+
+    button#btn:hover {
+        background: rgb(255, 82, 0);
+        transform: scale(1.1);
+        border: none;
+        outline: none;
+        color: #000;
+    }
+
+   
+
+    a.dropdown-item {
+        display: block;
+        width: 100%;
+        padding: 1.25rem 5rem;
+        clear: both;
+        font-weight: 400;
+        color: rgb(33, 37, 41);
+        text-align: inherit;
+        text-decoration: none;
+        white-space: nowrap;
+        background-color: transparent;
+        border: 0px;
+    }
+
+    .Wrpper-Topbar {
+       
+        padding-bottom: 20px;
+        border-radius: 7px;
+        background: url(./svg/header.svg);
+        background-size: c;
+    }
+
+    #bd {
+        border-radius: 2.25rem !important;
+    }
+
+    ul#Ul-frist {
+        float: left;
+    }
+
+    ul#Ul-frist li {
+        list-style: none;
+        padding: 7px;
+        font-size: 1rem;
+    }
+
+    ul#UL-Secend li {
+        list-style: none;
+        padding: 7px;
+        font-size: 1rem;
+    }
+
+    .progress {
+        margin: 1rem;
+    }
+
+    div#flx {
+        display: flex;
+    }
+
+    div#flx {
+        display: flex;
+        float: right;
+    }
+
+    .float-left {
+        display: inline-grid;
+    }
+
+    .flox {
+        display: flex;
+    }
+
+    h6#flx0 {
+        text-transform: capitalize;
+        text-align: center;
+    }
+
+    .flox i {
+        margin-right: 10px;
+        font-size: 30px;
+    }
+
+    a#link-color {
+        color: cornflowerblue !important;
+    }
+
+
+    .article h1 {
+        text-transform: capitalize;
+    }
+
+    img#f {
+        float: right;
+        color: #FF5200;
+    }
+
+    .flox i {
+        color: #37bc9b;
+    }
+
+    span.card-text {
+        font-size: 15px;
+        text-transform: capitalize;
+    }
+
+    h5.card-header {
+        /* font-size: 1rem; */
+        font-size: 24px;
+        text-transform: capitalize;
+        font-weight: 500;
+    }
+
+
+    h1.box-h1 {
+        position: relative;
+
+    }
+
+    h1.box-h1::after {
+        top: 0;
+        bottom: 0;
+        content: '';
+        width: 130px;
+        height: 5;
+        position: absolute;
+        /* background: url(/logo/nuxt-icon\ \(1\).png);
+        background-repeat: no-repeat; */
+        margin-top: 42px;
+        /* margin-right: 69%; */
+        left: 33%;
+        background: #FF5200;
+        border-radius: 10px;
+    }
+
+    input#inputMassages4 {
+        padding: 3rem;
+    }
+
+    ul#Ul-frist li {
+        list-style: none;
+        padding: 7px;
+        /* font-size: 1rem; */
+        font-size: 18px;
+    }
+
+
+    ul#UL-Secend li {
+        list-style: none;
+        padding: 7px;
+        font-size: 18px;
+        /* font-size: 1rem; */
+        text-transform: capitalize;
+    }
+
+    #margin {
+
+        display: table-row;
+    }
+
+    .col-md-4.align-content-xl-center {
+        margin: auto;
+    }
+
+    .flt span {
+        float: right;
+    }
+
+    .flt span {
+
+        margin-top: -37px;
+    }
+
+
+    .flt h6 {
+        text-transform: capitalize;
+        font-size: ;
+        font-size: 18px;
+        margin-left: 1rem;
+        font-weight: 500;
+    }
+
+    #col\.left {
+        border-radius: 8px;
+    }
+
+    ul#Ul-frist {
+        padding: 0;
+    }
+
+    .article {
+        margin-top: 1rem;
+    }
+
+
+
+    footer#bottom-0{
+
+        background: url(./svg/futeor.svg);
+        background-repeat: no-repeat;
+
+
+    }
+
+
+ 
+
+    div#color a {
+        color: white;
+    }
+
+    .parimany {
+
+        color: white;
+    }
+
+    section#testimonials {
+        padding-bottom: 28px;
+    }
+
+    button.btn.btn-outline-success {
+        padding: 9px 58px;
+        border-radius: 27px;
+    }
+
+
+    .box-right h1 {
+        text-transform: capitalize;
+        font-weight: 500;
+    }
+
+
+
+    figure.portfolio-item {
+        position: relative;
+    }
+
+
+    figcaption {
+        position: absolute;
+        bottom: 16;
+        width: 100%;
+        height: auto;
+        bottom: 16px;
+        padding: 25px;
+        text-align: center;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+        background: black;
+        background: linear-gradient(45deg, black, transparent);
+        color: snow;
+
+
+        transform-origin: bottom;
+        display: block;
+
+        transition: 500ms;
+        transform: scaleY(0) !important;
+    }
+
+
+    figure.portfolio-item:hover figcaption {
+
+        transform: scale(1) !important;
+
+
+    }
+
+
+    @media only screen and (max-width: 768px) {
+
+        /* For mobile phones: */
+        [class*="col-"] {
+            width: 100%;
+        }
+    }
+
+
+
+    div#bg-w {
+        background: #ebebeb;
+        border-radius: 5px;
+        padding-bottom: 10px;
+
+    }
+
+
+    label.form-label {
+        padding-top: 1rem;
+    }
